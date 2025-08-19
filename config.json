@@ -1,6 +1,56 @@
 {
   "cache_time": 7200,
   "api_site": {
+    "pornhub": {
+      "api": "https://www.pornhub.com/api",
+      "name": "Pornhub",
+      "detail": "https://www.pornhub.com"
+    },
+    "xvideos": {
+      "api": "https://www.xvideos.com/api",
+      "name": "XVideos",
+      "detail": "https://www.xvideos.com"
+    },
+    "xhamster": {
+      "api": "https://xhamster.com/api",
+      "name": "xHamster",
+      "detail": "https://xhamster.com"
+    },
+    "adulttime": {
+      "api": "https://www.adulttime.com/api",
+      "name": "Adult Time",
+      "detail": "https://www.adulttime.com"
+    },
+    "vivid": {
+      "api": "https://www.vivid.com/api",
+      "name": "Vivid Entertainment",
+      "detail": "https://www.vivid.com"
+    },
+    "aebn": {
+      "api": "https://www.aebn.com/api",
+      "name": "AEBN",
+      "detail": "https://www.aebn.com"
+    },
+    "bellesa": {
+      "api": "https://www.bellesa.co/api",
+      "name": "Bellesa",
+      "detail": "https://www.bellesa.co"
+    },
+    "bang": {
+      "api": "https://www.bang.com/api",
+      "name": "Bang",
+      "detail": "https://www.bang.com"
+    },
+    "redtube": {
+      "api": "https://www.redtube.com/api",
+      "name": "RedTube",
+      "detail": "https://www.redtube.com"
+    },
+    "manyvids": {
+      "api": "https://www.manyvids.com/api",
+      "name": "ManyVids",
+      "detail": "https://www.manyvids.com"
+    },
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
@@ -84,6 +134,30 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "hszy": {
+      "api": "https://hsckzy.vip/api.php/provide/vod",
+      "name": "黄色资源"
+    },
+    "souav": {
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "name": "搜AV"
+    },
+    "baiwan": {
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "name": "百万资源"
+    },
+    "yutu": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "玉兔资源"
+    },
+    "danai": {
+      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "name": "DN资源"
+    },
+    "xingba": {
+      "api": "https://xingba222.com/api.php/provide/vod",
+      "name": "杏吧资源"
     }
   }
 }
